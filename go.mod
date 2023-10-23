@@ -3,7 +3,7 @@ module github.com/NiuStar/gow
 go 1.20
 
 require (
-	alicode.mukj.cn/yjkj.ink/work v0.0.0-20231023030918-20bb994384ca
+	alicode.mukj.cn/yjkj.ink/work v0.0.0-20231023095155-43a7392832dd
 	github.com/zituocn/gow v1.3.3
 )
 

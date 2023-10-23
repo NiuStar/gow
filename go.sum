@@ -1,5 +1,7 @@
 alicode.mukj.cn/yjkj.ink/work v0.0.0-20231023030918-20bb994384ca h1:rV2fJpnm68F7XH9WcUURlTmgiR85Fqmxq7egM9PB8xI=
 alicode.mukj.cn/yjkj.ink/work v0.0.0-20231023030918-20bb994384ca/go.mod h1:Np38P/WpMnT4npFk0zHOVf71ni1acsIvITM66L85iDc=
+alicode.mukj.cn/yjkj.ink/work v0.0.0-20231023095155-43a7392832dd h1:5zn2Qy4K68F/9LxZalM+9qT0F7swM931LB6+acR+KbQ=
+alicode.mukj.cn/yjkj.ink/work v0.0.0-20231023095155-43a7392832dd/go.mod h1:Np38P/WpMnT4npFk0zHOVf71ni1acsIvITM66L85iDc=
 cloud.google.com/go v0.26.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 cloud.google.com/go v0.34.0/go.mod h1:aQUYkXzVsufM+DwF1aE+0xfcU+56JwCaLick0ClmMTw=
 github.com/BurntSushi/toml v0.3.1/go.mod h1:xHWCNGjB5oqiDr8zfno3MHue2Ht5sIBksp03qcyfWMU=
